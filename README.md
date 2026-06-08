@@ -18,7 +18,7 @@ Wix (No-Code Website Builder)
 [Visit RealMall](https://niyorukundovictoir.wixsite.com/realmall)
 
 ## 📂 GitHub Repository Link
-[GitHub Repository](https://github.com/yourusername/realmall)  
+[GitHub Repository](https://github.com/deborahineza/real-mall.git)  
 
 ## ✨ Features Implemented
 - Homepage with store name and welcome message
@@ -34,7 +34,7 @@ Wix (No-Code Website Builder)
   ![Homepage Screenshot](images/Home.png)
 
 - Product Page  
-  ![Product Page Screenshot](images/Product.png)
+  ![Product Page Screenshot](images/Products.png)
 
 - Contact/Cart Page  
   ![Contact Page Screenshot](images/Contact.png)
